@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-/Packages/
-/Logs/
-/ProjectSettings/
+HistroyMuseum//[Tt]emp
+HistroyMuseum//[Oo]bj
+HistroyMuseum//[Bb]uild
+HistroyMuseum//[Bb]uilds
+HistroyMuseum//[Ll]ogs
+HistroyMuseum//[Uu]ser[Ss]ettings
+HistroyMuseum//Packages
+HistroyMuseum//Logs
+HistroyMuseum//ProjectSettings/
+HistroyMuseum/Library
 *.mate
 
 
